@@ -206,7 +206,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(/Toyota.jpg)no-repeat;
+    background:url(Toyota.jpg)no-repeat;
     background-position: right;
     background-size: 50pc;
 }
@@ -324,7 +324,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
         5. Service 
 --------------------------------------*/
 .service {
-    background-image: url(/viber.jpg);
+    background-image: url(viber.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 260px 0 87px;}
